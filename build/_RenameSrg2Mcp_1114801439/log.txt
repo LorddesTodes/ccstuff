@@ -1,0 +1,15 @@
+Java Launcher: C:\Users\leon\.gradle\jdks\eclipse_adoptium-17-amd64-windows\jdk-17.0.12+7\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\leon\.gradle\caches\modules-2\files-2.1\cc.tweaked\cc-tweaked-1.20.1-forge-api\1.112.0\e3660b43240eb40c14fe04c6da19ea82ba088e13\cc-tweaked-1.20.1-forge-api-1.112.0.jar, --output, C:\Users\leon\.gradle\caches\forge_gradle\deobf_dependencies\cc\tweaked\cc-tweaked-1.20.1-forge-api\1.112.0_mapped_parchment_2023.09.03-1.20.1\cc-tweaked-1.20.1-forge-api-1.112.0_mapped_parchment_2023.09.03-1.20.1.jar, --mcp, C:\Users\leon\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.09.03\parchment-1.20.1-2023.09.03.zip, --strip-signatures'
+Classpath:
+ - C:\Users\leon\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.3.2\installertools-1.3.2-fatjar.jar
+Working directory: C:\Users\leon\Downloads\1.20.1 mods making\ccstufff\build\_RenameSrg2Mcp_1114801439
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\leon\.gradle\caches\modules-2\files-2.1\cc.tweaked\cc-tweaked-1.20.1-forge-api\1.112.0\e3660b43240eb40c14fe04c6da19ea82ba088e13\cc-tweaked-1.20.1-forge-api-1.112.0.jar
+Output: C:\Users\leon\.gradle\caches\forge_gradle\deobf_dependencies\cc\tweaked\cc-tweaked-1.20.1-forge-api\1.112.0_mapped_parchment_2023.09.03-1.20.1\cc-tweaked-1.20.1-forge-api-1.112.0_mapped_parchment_2023.09.03-1.20.1.jar
+MCP:    C:\Users\leon\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.09.03\parchment-1.20.1-2023.09.03.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ovo",
+    "beb",
+    "bwb"
+  ],
+  "key": [
+    {
+      "o": "forge:plates/obsidian",
+      "v": "create:propeller",
+      "e": "create:precision_mechanism",
+      "w": "create:shaft",
+      "b": "forge:ingot/brass"
+    }
+  ],
+  "result": {
+    "item": "ccstuffs:teleporter",
+    "count": 1
+  }
+}
